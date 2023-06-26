@@ -1,8 +1,11 @@
 # Air Canvas
 
-Drawing on Computers using Gestures
-
-This project is a part of Intelligent Computing Course (CSE-342) at IIT BHU, for the odd semester 2021-2022.
+Rhe project aims to develop a character recognition system using the EMNIST dataset that can
+recognize handwritten English characters and numbers in real-time on the digital canvas of
+Aircanvas software. The system will be able to recognize 62 different alphanumeric characters,
+including 10 digits, 26 uppercase letters, and 26 lowercase letters. The system will also be able to
+recognize characters of different sizes, styles, and orientations. In addition, the system will be
+able to save images drawn on the digital canvas for later us
 
 ## Features
 
@@ -16,18 +19,3 @@ This project is a part of Intelligent Computing Course (CSE-342) at IIT BHU, for
 
 1.  Install dependencies using `pip3 install -r requirements.txt`.
 2.  Run the project through `python3 aircanvas.py`
-
-## Team Members
-
--   Shubhanshu Saxena (@shubhanshu02)
--   Diya Agrawal (@diya31ag)
--   Kenny Patel (@Kenny-08)
--   Siddhant Jain (@jainsid2305)
-
-## Presentation and Demo Video
-
--   [Link](https://prezi.com/view/hX0hbolo46j5fIVIjRHF/) for the presentation of Air Canvas project.
-
--   [Link](https://www.youtube.com/watch?v=5xssoveB-74) for the demo video.
-
-[![Air Canvas Demo Video](https://img.youtube.com/vi/5xssoveB-74/0.jpg)]()
